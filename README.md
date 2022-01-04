@@ -1,5 +1,7 @@
 <h1 align="center">Hi😎, I'm ASIF AKHTAR</h1>
+<p align="center">
 <img align="center" alt="Coding" width="700" src="https://media.giphy.com/media/Oz8UPcfxxvpSsNR7tB/giphy.gif">
+  </p>
 <h3 align="center">A passionate frontend developer from Assam India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifakhtar98&label=Profile%20views&color=00bd97&style=flat-square" alt="asifakhtar98" /> </p>
