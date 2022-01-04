@@ -3,10 +3,11 @@
 <img align="center" alt="Coding" width="700" src="https://media.giphy.com/media/Oz8UPcfxxvpSsNR7tB/giphy.gif">
   </p>
 <h3 align="center">A passionate frontend developer from Assam India</h3>
-
+<p align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifakhtar98&label=Profile%20views&color=00bd97&style=flat-square" alt="asifakhtar98" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifakhtar98" alt="asifakhtar98" /></a> </p>
+</p>
+<p align="center">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifakhtar98" alt="asifakhtar98" /></a> </p></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
