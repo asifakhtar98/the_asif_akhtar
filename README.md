@@ -10,10 +10,7 @@
 
 - 📫 How to reach me by mail **mail@asifakhtar.pro**
 
-- View my updated resume [https://asifakhtar.pro](https://asifakhtar.pro)
+- View my updated resume [My Flutter Resume](https://docs.google.com/document/d/e/2PACX-1vQw96PQ01TCKpzngkW6V2uXOQA1riwnVS7Mq1hilnc5L8Q7lttt47Y7iyqKqnzR4Esg8eVmvQ5QSQ63/pub)
 
 - ⚡ Fun fact **I do basically -> Eat Code Sleep Also Bath Twice A Day**
-
-MY RESUME
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQw96PQ01TCKpzngkW6V2uXOQA1riwnVS7Mq1hilnc5L8Q7lttt47Y7iyqKqnzR4Esg8eVmvQ5QSQ63/pub?embedded=true"></iframe>
 
