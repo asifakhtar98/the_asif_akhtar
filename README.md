@@ -12,12 +12,3 @@
 
 - ⚡ Fun fact **I do basically -> Eat Code Sleep Also Bath Twice A Day**
 
-
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifakhtar98&show_icons=true&theme=tokyonight&locale=en" alt="asifakhtar98" /></p>
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifakhtar98&theme=highcontrast" alt="asifakhtar98" /></p>
-</p>
-
