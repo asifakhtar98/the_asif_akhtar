@@ -1,20 +1,16 @@
 <h1 align="center">Hi😎, I'm ASIF AKHTAR</h1>
 
-<h3 align="center">A passionate frontend developer from Assam India</h3>
+<h3 align="center">A passionate Fullstack Flutter developer from Delhi India</h3>
 
-- 🔭 I’m currently working on **Freelance**
+- 🔭 I’m currently working **Full Time At Delhi**
 
-- 🌱 I’m currently learning **Dart Advance, Flutter, Next JS**
+- 🌱 I’m currently learning **Dart Advance, Flutter, Golang, Aws**
 
-- 👨‍💻 All of my projects are available at [https://startupassamportfolio.web.app/](https://startupassamportfolio.web.app/)
+- 📝 Visit my web portfolio at [https://asifakhtar.pro](https://asifakhtar.pro)
 
-- 📝 I regularly write articles on [https://startupassamportfolio.web.app/](https://startupassamportfolio.web.app/)
+- 📫 How to reach me by mail **mail@asifakhtar.pro**
 
-- 📫 How to reach me **asifakhtar91298.personal@gmail.com**
-
-- 📄 Know about my experiences [https://startupassamportfolio.web.app/](https://startupassamportfolio.web.app/)
-
-- ⚡ Fun fact **I do basically -> East Code Sleep Also Bath Twice A Day**
+- ⚡ Fun fact **I do basically -> Eat Code Sleep Also Bath Twice A Day**
 
 
 
